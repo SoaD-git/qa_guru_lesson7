@@ -37,5 +37,6 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
+/settings.gradle
 .todo
 local.properties
